@@ -60,7 +60,7 @@ Added Gaussian noise, mean 0, std dev 10<br/>
 Image denoising in the frequency domain: <br/>
 (left) Conjugate gradient filter, (center) Wiener filter with an empirical K constant, (right) Wiener filter
 <p align="center">
-  <img src="test_results/test_results_noise_std_10.jpeg" width="520" height="420"/>
+  <img src="test_results/test_results_noise_std_10.jpeg" width="720" height="620"/>
 </p>
 
 
@@ -68,5 +68,5 @@ Added Gaussian noise, mean 0, std dev 30<br/>
 Image denoising in the frequency domain: <br/>
 (left) Conjugate gradient filter, (center) Wiener filter with an empirical K constant, (right) Wiener filter
 <p align="center">
-  <img src="test_results/test_results_noise_std_30.jpeg" width="520" height="420"/>
+  <img src="test_results/test_results_noise_std_30.jpeg" width="720" height="620"/>
 </p>
